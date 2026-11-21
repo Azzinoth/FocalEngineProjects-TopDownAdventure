@@ -1,0 +1,269 @@
+{
+	"EditorCameras" : 
+	[
+		{
+			"EntityData" : 
+			{
+				"Components" : 
+				{
+					"Camera" : 
+					{
+						"Anti-Aliasing(FXAA)" : 
+						{
+							"FXAAReduceMin" : 0.0078125,
+							"FXAAReduceMul" : 0.40000000596046448,
+							"FXAASpanMax" : 8.0
+						},
+						"AspectRatio" : 1.8404254913330078,
+						"Bloom" : 
+						{
+							"Bloom Size" : 5.0,
+							"Threshold Brightness" : 1.0
+						},
+						"Chromatic Aberration" : 
+						{
+							"Shift strength" : 1.0
+						},
+						"ClearColor" : 
+						{
+							"A" : 1.0,
+							"B" : 0.87000000476837158,
+							"G" : 0.73000001907348633,
+							"R" : 0.55000001192092896
+						},
+						"Depth of Field" : 
+						{
+							"Distance dependent strength" : 100.0,
+							"Far distance" : 9000.0,
+							"Near distance" : 0.0,
+							"Strength" : 2.0
+						},
+						"Distance fog" : 
+						{
+							"Density" : 0.0070000002160668373,
+							"Gradient" : 2.5,
+							"isDistanceFog Enabled" : false
+						},
+						"FOV" : 50.680000305175781,
+						"FarPlane" : 5000.0,
+						"Gamma Correction & Exposure" : 
+						{
+							"Exposure" : 1.0,
+							"Gamma" : 2.2000000476837158
+						},
+						"NearPlane" : 0.0099999997764825821,
+						"RenderingScale" : 1.0,
+						"SSAO" : 
+						{
+							"Bias" : 0.013000000268220901,
+							"Blured" : true,
+							"Radius" : 10.0,
+							"Radius Small Details" : 0.40000000596046448,
+							"Sample Count" : 16,
+							"Small Details" : true,
+							"Small Details Weight" : 0.20000000298023224,
+							"isSSAO Active" : true
+						},
+						"bIsMainCamera" : true
+					},
+					"Native Script" : 
+					{
+						"ModuleID" : "e1ff1a0e-000b-5f87-9b08-dcec07635c17",
+						"Name" : "FreeCameraController",
+						"Variables" : 
+						{
+							"MouseSensitivity" : 
+							{
+								"Name" : "MouseSensitivity",
+								"Type" : "float",
+								"Value" : 0.15000000596046448
+							},
+							"MovementSpeed" : 
+							{
+								"Name" : "MovementSpeed",
+								"Type" : "float",
+								"Value" : 10.0
+							}
+						}
+					},
+					"Tag" : 
+					{
+						"Tag" : ""
+					},
+					"Transform" : 
+					{
+						"Position" : 
+						{
+							"X" : 0.8133087158203125,
+							"Y" : 115.32862091064453,
+							"Z" : 105.46289825439453
+						},
+						"Rotation" : 
+						{
+							"W" : 0.88462138175964355,
+							"X" : -0.38643825054168701,
+							"Y" : -0.23915660381317139,
+							"Z" : -0.10447324812412262
+						},
+						"Scale" : 
+						{
+							"UniformScaling" : true,
+							"X" : 1.0,
+							"Y" : 1.0,
+							"Z" : 1.0
+						}
+					}
+				},
+				"FEObjectData" : 
+				{
+					"ID" : "f82cd30f-7b0e-4f3a-8c5f-2e2e588f7ca0",
+					"Name" : "Free camera",
+					"Tag" : "EDITOR_PRIVATE_RESOURCE",
+					"Type" : 6
+				}
+			},
+			"SceneID" : "7ed9b777-834b-469a-a3b8-2b78b5bb86b0"
+		},
+		{
+			"EntityData" : 
+			{
+				"Components" : 
+				{
+					"Camera" : 
+					{
+						"Anti-Aliasing(FXAA)" : 
+						{
+							"FXAAReduceMin" : 0.0078125,
+							"FXAAReduceMul" : 0.40000000596046448,
+							"FXAASpanMax" : 8.0
+						},
+						"AspectRatio" : 1.8404254913330078,
+						"Bloom" : 
+						{
+							"Bloom Size" : 5.0,
+							"Threshold Brightness" : 1.0
+						},
+						"Chromatic Aberration" : 
+						{
+							"Shift strength" : 1.0
+						},
+						"ClearColor" : 
+						{
+							"A" : 1.0,
+							"B" : 0.87000000476837158,
+							"G" : 0.73000001907348633,
+							"R" : 0.55000001192092896
+						},
+						"Depth of Field" : 
+						{
+							"Distance dependent strength" : 100.0,
+							"Far distance" : 9000.0,
+							"Near distance" : 0.0,
+							"Strength" : 2.0
+						},
+						"Distance fog" : 
+						{
+							"Density" : 0.0070000002160668373,
+							"Gradient" : 2.5,
+							"isDistanceFog Enabled" : false
+						},
+						"FOV" : 50.680000305175781,
+						"FarPlane" : 5000.0,
+						"Gamma Correction & Exposure" : 
+						{
+							"Exposure" : 1.0,
+							"Gamma" : 2.2000000476837158
+						},
+						"NearPlane" : 0.0099999997764825821,
+						"RenderingScale" : 1.0,
+						"SSAO" : 
+						{
+							"Bias" : 0.013000000268220901,
+							"Blured" : true,
+							"Radius" : 10.0,
+							"Radius Small Details" : 0.40000000596046448,
+							"Sample Count" : 16,
+							"Small Details" : true,
+							"Small Details Weight" : 0.20000000298023224,
+							"isSSAO Active" : true
+						},
+						"bIsMainCamera" : true
+					},
+					"Native Script" : 
+					{
+						"ModuleID" : "e1ff1a0e-000b-5f87-9b08-dcec07635c17",
+						"Name" : "FreeCameraController",
+						"Variables" : 
+						{
+							"MouseSensitivity" : 
+							{
+								"Name" : "MouseSensitivity",
+								"Type" : "float",
+								"Value" : 0.15000000596046448
+							},
+							"MovementSpeed" : 
+							{
+								"Name" : "MovementSpeed",
+								"Type" : "float",
+								"Value" : 10.0
+							}
+						}
+					},
+					"Tag" : 
+					{
+						"Tag" : ""
+					},
+					"Transform" : 
+					{
+						"Position" : 
+						{
+							"X" : -44.7415771484375,
+							"Y" : 93.858268737792969,
+							"Z" : 111.27127838134766
+						},
+						"Rotation" : 
+						{
+							"W" : 0.88462132215499878,
+							"X" : -0.38643825054168701,
+							"Y" : -0.23915664851665497,
+							"Z" : -0.10447325557470322
+						},
+						"Scale" : 
+						{
+							"UniformScaling" : true,
+							"X" : 1.0,
+							"Y" : 1.0,
+							"Z" : 1.0
+						}
+					}
+				},
+				"FEObjectData" : 
+				{
+					"ID" : "55e75597-9a6c-4947-9b44-5fd0df6375ee",
+					"Name" : "Free camera",
+					"Tag" : "EDITOR_PRIVATE_RESOURCE",
+					"Type" : 6
+				}
+			},
+			"SceneID" : "a90ad2a8-846e-437b-bd9a-2ef27e28af2d"
+		}
+	],
+	"EditorScenes" : 
+	{
+		"FocusedSceneID" : "7ed9b777-834b-469a-a3b8-2b78b5bb86b0",
+		"Opened" : 
+		{
+			"0" : 
+			{
+				"ID" : "7ed9b777-834b-469a-a3b8-2b78b5bb86b0",
+				"IsPrefabDescription" : false
+			}
+		}
+	},
+	"ID" : "9d004811-4cb5-40cc-9974-10917d3011e3",
+	"Name" : "TopDownAdventure",
+	"Plugins" : [],
+	"StartingScene" : "7ed9b777-834b-469a-a3b8-2b78b5bb86b0",
+	"Version" : 0.05000000074505806,
+	"bWasJustCreated" : false
+}

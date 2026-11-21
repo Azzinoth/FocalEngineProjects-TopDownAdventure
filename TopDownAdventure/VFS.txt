@@ -1,0 +1,2160 @@
+{
+	"d7d3a9d8-74ad-4f1f-9e5d-1fdbee88f9f4" : 
+	{
+		"Files" : 
+		{
+			"0419567a-0ebc-5153-a08e-65321bc57109" : 
+			{
+				"ReadOnly" : true
+			},
+			"0808e207-07b3-43e9-a08f-afc42420741a" : 
+			{
+				"ReadOnly" : true
+			},
+			"0a588c53-e5c9-4dba-a115-ce29fc031584" : 
+			{
+				"ReadOnly" : true
+			},
+			"11905b5d-0e60-5822-be0d-3cf7d4e34c93" : 
+			{
+				"ReadOnly" : true
+			},
+			"1a709f5b-cfab-40be-a87b-83276a6d1288" : 
+			{
+				"ReadOnly" : true
+			},
+			"22d929e5-d5bc-4e40-8320-e4dfe24d3132" : 
+			{
+				"ReadOnly" : true
+			},
+			"26e9c25a-d0d4-44f7-a730-101eed5fc363" : 
+			{
+				"ReadOnly" : true
+			},
+			"2a4b37f7-1cb8-5b82-8b57-f3c515f5aee6" : 
+			{
+				"ReadOnly" : true
+			},
+			"2b48639c-2069-480b-b6d2-fc46e32a74b3" : 
+			{
+				"ReadOnly" : true
+			},
+			"2bbad368-dc42-519f-b5bb-77a58d7cb40b" : 
+			{
+				"ReadOnly" : true
+			},
+			"2c282296-45a7-42ca-8956-f77ec51d5c49" : 
+			{
+				"ReadOnly" : true
+			},
+			"2f104884-dc71-4ba9-b3b1-462b398c1efd" : 
+			{
+				"ReadOnly" : true
+			},
+			"318d47f1-7227-4941-9525-51ef15431790" : 
+			{
+				"ReadOnly" : true
+			},
+			"33e26164-8b75-58e7-ae52-255a42fa9ecf" : 
+			{
+				"ReadOnly" : true
+			},
+			"356b49b5-edb9-4a97-a3e6-a880fe289590" : 
+			{
+				"ReadOnly" : true
+			},
+			"3715a86b-20bc-4170-b8cb-91e2278a46bd" : 
+			{
+				"ReadOnly" : true
+			},
+			"39b1a8e7-a415-421a-a69d-eee74c738125" : 
+			{
+				"ReadOnly" : true
+			},
+			"3d471336-bd4f-4c72-b0da-0830aae2e7b8" : 
+			{
+				"ReadOnly" : true
+			},
+			"3e4dbaf6-2aee-469d-ad0d-93d715e8b9fc" : 
+			{
+				"ReadOnly" : true
+			},
+			"434e086c-4046-57b1-a1f4-f53797efc1ea" : 
+			{
+				"ReadOnly" : true
+			},
+			"46824a8a-575a-46dc-b9df-643f8a404103" : 
+			{
+				"ReadOnly" : true
+			},
+			"47b0bd70-2e25-4127-9dc1-ce9907f4e142" : 
+			{
+				"ReadOnly" : true
+			},
+			"494ea814-1df9-429b-98b5-23761f7b8840" : 
+			{
+				"ReadOnly" : true
+			},
+			"4b7502db-f30f-44c0-8b29-18dd22c729bf" : 
+			{
+				"ReadOnly" : true
+			},
+			"4c15443a-5824-595f-b5ed-25d2022c13f0" : 
+			{
+				"ReadOnly" : true
+			},
+			"4db62bf1-01f3-5f31-b303-2e1c11aad620" : 
+			{
+				"ReadOnly" : true
+			},
+			"5101b358-9090-58a1-9833-f5ec51662470" : 
+			{
+				"ReadOnly" : true
+			},
+			"52f4c0ed-8d11-4157-abe9-3420a18476bc" : 
+			{
+				"ReadOnly" : true
+			},
+			"55f8730f-e96d-4404-9e87-da106bd681dd" : 
+			{
+				"ReadOnly" : true
+			},
+			"58e37694-4f98-5db0-a5c3-6ab47d41cc10" : 
+			{
+				"ReadOnly" : true
+			},
+			"59823064-3b66-46ca-84c1-823a5657b46b" : 
+			{
+				"ReadOnly" : true
+			},
+			"5a9ac3dc-b130-4d6d-9d90-224e71da0515" : 
+			{
+				"ReadOnly" : true
+			},
+			"5f9e1b3c-6455-439b-a4eb-f05bb3c322f3" : 
+			{
+				"ReadOnly" : true
+			},
+			"605e40f7-531f-4ccc-a833-8b694dbc6e22" : 
+			{
+				"ReadOnly" : true
+			},
+			"6d048e50-3fa9-4939-a07b-753ae94fbabc" : 
+			{
+				"ReadOnly" : true
+			},
+			"70a317b8-016b-46c8-be8d-2f8e9796b90d" : 
+			{
+				"ReadOnly" : true
+			},
+			"7403b919-1290-4d30-901e-9ae22b659925" : 
+			{
+				"ReadOnly" : true
+			},
+			"770fcf42-78db-449f-9f11-0f413af62f5e" : 
+			{
+				"ReadOnly" : true
+			},
+			"783f282a-ae54-4858-a520-6901a3f52312" : 
+			{
+				"ReadOnly" : true
+			},
+			"7b628c49-b0ff-4dff-ba89-f5dafdbb11fd" : 
+			{
+				"ReadOnly" : true
+			},
+			"7ba9eb7c-e7f4-4b03-acbc-4c01c54c63fa" : 
+			{
+				"ReadOnly" : true
+			},
+			"7c8dea2a-1e73-49e5-89c2-d72486e3e8fa" : 
+			{
+				"ReadOnly" : true
+			},
+			"7cae6497-b351-4304-b7c0-703bee31c29f" : 
+			{
+				"ReadOnly" : true
+			},
+			"7f4fbffc-c047-4784-95b6-86686315c531" : 
+			{
+				"ReadOnly" : true
+			},
+			"804a2ad0-d0ba-4dcc-8964-24364be8f549" : 
+			{
+				"ReadOnly" : true
+			},
+			"82654062-175c-4679-89ef-1588c51c94cc" : 
+			{
+				"ReadOnly" : true
+			},
+			"850617c7-5233-42c0-a09c-9246c9caf606" : 
+			{
+				"ReadOnly" : true
+			},
+			"932f2c47-c199-4873-a017-549e46375e3e" : 
+			{
+				"ReadOnly" : true
+			},
+			"934a2a95-8431-402c-aaba-0bf9fad0687e" : 
+			{
+				"ReadOnly" : true
+			},
+			"972234c3-34d5-59d2-a15e-856cf6c3fba9" : 
+			{
+				"ReadOnly" : true
+			},
+			"9ce33770-b962-40f3-80f7-7f3c59ab7fc5" : 
+			{
+				"ReadOnly" : true
+			},
+			"9e90940d-819e-4edf-91ec-929d82310716" : 
+			{
+				"ReadOnly" : true
+			},
+			"a0982bdc-930e-4e9e-b3ec-f2ae1390c6ae" : 
+			{
+				"ReadOnly" : true
+			},
+			"a270a383-cd29-5852-ad65-d31f1291be12" : 
+			{
+				"ReadOnly" : true
+			},
+			"a332bc2e-84e2-4e26-8d1b-53893619379a" : 
+			{
+				"ReadOnly" : true
+			},
+			"a5e423df-d923-5365-a0d6-22a5f62bb78f" : 
+			{
+				"ReadOnly" : true
+			},
+			"a6f72c3d-1c4b-4f0d-b00d-803fbca3b19f" : 
+			{
+				"ReadOnly" : true
+			},
+			"a72e898d-7fb3-58a9-9506-add92d7492b7" : 
+			{
+				"ReadOnly" : true
+			},
+			"aba95eab-2157-414c-89b2-65d520d6855f" : 
+			{
+				"ReadOnly" : true
+			},
+			"ade5dc0c-dc48-490c-93c2-6d447fd0114d" : 
+			{
+				"ReadOnly" : true
+			},
+			"b0dee556-ec66-45c7-924d-11725a57b6ac" : 
+			{
+				"ReadOnly" : true
+			},
+			"b2a7fef8-afaf-4b10-9060-211819ed6dcb" : 
+			{
+				"ReadOnly" : true
+			},
+			"b7b6495d-beef-5845-bca6-82c519e7947d" : 
+			{
+				"ReadOnly" : true
+			},
+			"b8154cc6-19f2-4532-861a-a758a3a75d9d" : 
+			{
+				"ReadOnly" : true
+			},
+			"bb53e54f-fc2f-4c87-b751-b6d66c87cd80" : 
+			{
+				"ReadOnly" : true
+			},
+			"bdc114b5-adf6-5fe2-b05b-378d1d4b68c1" : 
+			{
+				"ReadOnly" : true
+			},
+			"be6a75dd-5819-449a-8353-8b6b5750d22a" : 
+			{
+				"ReadOnly" : true
+			},
+			"bff5a6c0-c7cc-4e8f-8b18-6e58ba22d209" : 
+			{
+				"ReadOnly" : true
+			},
+			"c3ac7435-cbee-4dc3-af14-513c237ed296" : 
+			{
+				"ReadOnly" : true
+			},
+			"c3f404df-71bc-4292-97e1-9f2f45a9540e" : 
+			{
+				"ReadOnly" : true
+			},
+			"c88769e2-663f-4b5a-b8f7-9c66530709fa" : 
+			{
+				"ReadOnly" : true
+			},
+			"c952319c-6c14-4730-b777-bf94f105ffe7" : 
+			{
+				"ReadOnly" : true
+			},
+			"c9cb3de1-a8e0-41ca-8d9c-eca961775b17" : 
+			{
+				"ReadOnly" : true
+			},
+			"d0ab1f72-a8e6-4341-a4ad-a97fd0e96e68" : 
+			{
+				"ReadOnly" : true
+			},
+			"d13e4944-ad77-4cef-851f-1845400d7eda" : 
+			{
+				"ReadOnly" : true
+			},
+			"d374cc00-8a73-4fa3-83c3-f9696be58bb8" : 
+			{
+				"ReadOnly" : true
+			},
+			"d50afe74-47d9-4dd3-b77d-86da10df162d" : 
+			{
+				"ReadOnly" : true
+			},
+			"d65703ab-9bf6-4c8b-8bef-c665cde9c238" : 
+			{
+				"ReadOnly" : true
+			},
+			"d71a7db5-378c-43d5-ad46-9b72b444e52e" : 
+			{
+				"ReadOnly" : true
+			},
+			"db609958-a353-5c6c-9529-03e842e68ad7" : 
+			{
+				"ReadOnly" : true
+			},
+			"dfe028bb-ec6e-475c-b600-a330ffb8571b" : 
+			{
+				"ReadOnly" : true
+			},
+			"e1ff1a0e-000b-5f87-9b08-dcec07635c17" : 
+			{
+				"ReadOnly" : true
+			},
+			"e4b59f77-ee83-57da-a2f0-da97b1a15f68" : 
+			{
+				"ReadOnly" : true
+			},
+			"e993317b-8991-5b35-a564-2f1b7b775a57" : 
+			{
+				"ReadOnly" : true
+			},
+			"ebc2f7fa-37bf-419b-aac6-d261e29cf3f7" : 
+			{
+				"ReadOnly" : true
+			},
+			"ec567938-9262-4bcc-93dc-926b55ec5a93" : 
+			{
+				"ReadOnly" : true
+			},
+			"ece66eb9-eb9d-5c56-b531-5d22de2131e7" : 
+			{
+				"ReadOnly" : true
+			},
+			"ef50b4a9-5d8d-49f5-a79e-39635ad9626d" : 
+			{
+				"ReadOnly" : true
+			},
+			"ef9054ce-7b64-44a6-b6a7-d4273588e6e9" : 
+			{
+				"ReadOnly" : true
+			},
+			"f29b098c-e53b-4107-bc84-bb8039e5ede5" : 
+			{
+				"ReadOnly" : true
+			},
+			"f966bd23-b3a3-487d-9ad0-f6792aeb5cbc" : 
+			{
+				"ReadOnly" : true
+			},
+			"fa7bee33-4f10-47aa-acf1-e09726b4177d" : 
+			{
+				"ReadOnly" : true
+			},
+			"fe9c35d4-9ff6-412f-8394-0c1802b72b8b" : 
+			{
+				"ReadOnly" : true
+			},
+			"ff018bb9-0478-5dbe-96be-2b000e4ffb36" : 
+			{
+				"ReadOnly" : true
+			}
+		},
+		"Name" : "/",
+		"ReadOnly" : false,
+		"SubDirectories" : 
+		{
+			"1feb36ac-3600-4763-b801-cdd67f2ebe2c" : 
+			{
+				"Files" : 
+				{
+					"1df6c1dc-b074-4bb9-9809-a4964c0fce52" : 
+					{
+						"ReadOnly" : false
+					},
+					"30f2546c-06fe-4bfe-8652-3dc2196d1472" : 
+					{
+						"ReadOnly" : false
+					},
+					"6226952f-b8bb-4806-b1d8-15858843e4fa" : 
+					{
+						"ReadOnly" : false
+					},
+					"6d3ed38a-3974-47f8-85ac-fa6347e34738" : 
+					{
+						"ReadOnly" : false
+					},
+					"7cbd85d9-a19a-4380-83b6-ce46b6bf75de" : 
+					{
+						"ReadOnly" : false
+					},
+					"bd7bfa66-5f9b-4208-8680-0ecec5b42b65" : 
+					{
+						"ReadOnly" : false
+					},
+					"da0773ad-f038-424d-aec6-08f4f170f7f0" : 
+					{
+						"ReadOnly" : false
+					},
+					"e08d4268-8572-4f19-acaa-7b12f5559066" : 
+					{
+						"ReadOnly" : false
+					},
+					"e718da53-29ed-432a-b584-176718803f56" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Textures",
+				"ReadOnly" : false,
+				"SubDirectories" : null
+			},
+			"3b10f5e9-5ea3-4c9e-b848-7ca59d636133" : 
+			{
+				"Files" : 
+				{
+					"7ed9b777-834b-469a-a3b8-2b78b5bb86b0" : 
+					{
+						"ReadOnly" : false
+					},
+					"a90ad2a8-846e-437b-bd9a-2ef27e28af2d" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Scenes",
+				"ReadOnly" : false,
+				"SubDirectories" : null
+			},
+			"484383ea-ca41-4554-b18a-4863372e26bd" : 
+			{
+				"Files" : 
+				{
+					"2aef9be9-db80-46f2-8cb5-ab3b79c91c8a" : 
+					{
+						"ReadOnly" : false
+					},
+					"4ceae47a-7f3b-4d31-9622-4eb1cd12ee88" : 
+					{
+						"ReadOnly" : false
+					},
+					"962e834f-c45e-453f-bb79-628692899692" : 
+					{
+						"ReadOnly" : false
+					},
+					"f2d332fd-47db-451f-8465-8b2a175fc137" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Characters",
+				"ReadOnly" : false,
+				"SubDirectories" : 
+				{
+					"d50623ec-88e3-49e7-8764-b080d9c53f0b" : 
+					{
+						"Files" : 
+						{
+							"030e65fb-79ed-4363-b93f-9f1670949302" : 
+							{
+								"ReadOnly" : false
+							},
+							"08b12bec-5d95-4dfd-afe1-ebffd871a7d4" : 
+							{
+								"ReadOnly" : false
+							},
+							"20878cd5-78a3-4478-8599-39c1fc4b077a" : 
+							{
+								"ReadOnly" : false
+							},
+							"2f92db7a-1e2e-44f1-9a79-539c8c715ddc" : 
+							{
+								"ReadOnly" : false
+							},
+							"52f832fd-7dbb-4f8a-97f2-d815a3d70952" : 
+							{
+								"ReadOnly" : false
+							},
+							"6d279b59-c09f-460b-97f3-f8f628f7c592" : 
+							{
+								"ReadOnly" : false
+							},
+							"74efe117-0aaf-46f4-b0e5-cec92f8ceb56" : 
+							{
+								"ReadOnly" : false
+							},
+							"8347c064-e8a7-4733-8b1b-c761f5d33199" : 
+							{
+								"ReadOnly" : false
+							},
+							"85e3f74c-bbd6-41a6-9cc1-b9fbb5e44fb9" : 
+							{
+								"ReadOnly" : false
+							},
+							"c8cede9e-7cfd-458c-bcbf-d4956ed4ea41" : 
+							{
+								"ReadOnly" : false
+							},
+							"cc659a34-b1d7-4dcf-b30f-71546da94bc7" : 
+							{
+								"ReadOnly" : false
+							},
+							"d0c70b61-8b99-44c5-a575-9a8559c2d519" : 
+							{
+								"ReadOnly" : false
+							}
+						},
+						"Name" : "Parts",
+						"ReadOnly" : false,
+						"SubDirectories" : null
+					}
+				}
+			},
+			"5b21aa50-818a-4359-951c-52588678287e" : 
+			{
+				"Files" : 
+				{
+					"0e0542bb-1def-4543-b65d-bb7b2104c630" : 
+					{
+						"ReadOnly" : false
+					},
+					"10c5bbc1-7896-4339-bdcc-d950b631935c" : 
+					{
+						"ReadOnly" : false
+					},
+					"12eb4a02-f63f-4e85-8e56-98e7a2e32b69" : 
+					{
+						"ReadOnly" : false
+					},
+					"19074f68-d5c2-4174-9a7e-bf84609ce5b2" : 
+					{
+						"ReadOnly" : false
+					},
+					"5a1e7598-d1ea-49f2-8fd3-80ca0144dc77" : 
+					{
+						"ReadOnly" : false
+					},
+					"9a7d32bf-3d56-406d-a711-c34e0bad0a22" : 
+					{
+						"ReadOnly" : false
+					},
+					"9df34811-6223-4d81-b29f-efadccc4d956" : 
+					{
+						"ReadOnly" : false
+					},
+					"b5b3e0b9-1d4c-40eb-be9c-ed9e35cd90ea" : 
+					{
+						"ReadOnly" : false
+					},
+					"f42cc4e8-0725-483c-9cfb-46b8908fa719" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Materials",
+				"ReadOnly" : false,
+				"SubDirectories" : null
+			},
+			"5eaae9ef-2e63-41a3-8353-a624e333db62" : 
+			{
+				"Files" : 
+				{
+					"86d3b298-8b61-48f2-8b54-69d48a724f13" : 
+					{
+						"ReadOnly" : false
+					},
+					"90d1d2ab-c7ac-4337-9844-b3b1eecaab9c" : 
+					{
+						"ReadOnly" : false
+					},
+					"b5954d19-1075-4c34-8163-3b2808413ebb" : 
+					{
+						"ReadOnly" : false
+					},
+					"bbdb37d1-6226-4e44-b249-89c9993fd0c0" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Rocks",
+				"ReadOnly" : false,
+				"SubDirectories" : 
+				{
+					"5646045a-fcae-4c30-ac00-43848cc9c13e" : 
+					{
+						"Files" : 
+						{
+							"2baf08a1-c210-4c9a-a3de-8d6e4184575c" : 
+							{
+								"ReadOnly" : false
+							},
+							"4c801767-5db3-4f44-9ec4-0fd8ac07d5d8" : 
+							{
+								"ReadOnly" : false
+							},
+							"66fb6179-4fb9-499e-9184-e1c01d897f54" : 
+							{
+								"ReadOnly" : false
+							},
+							"865c36a8-07da-4ee6-8626-1eb7a60bbc62" : 
+							{
+								"ReadOnly" : false
+							},
+							"914c65bc-667d-4ca3-baf6-c9e30e35b7f1" : 
+							{
+								"ReadOnly" : false
+							},
+							"a6635488-1590-4531-ab02-130b54c00c6f" : 
+							{
+								"ReadOnly" : false
+							},
+							"cad030fb-d035-41cc-8260-2e33177d50d2" : 
+							{
+								"ReadOnly" : false
+							},
+							"e5d52369-f42f-47bf-8d78-63ef44e8104f" : 
+							{
+								"ReadOnly" : false
+							}
+						},
+						"Name" : "Parts",
+						"ReadOnly" : false,
+						"SubDirectories" : null
+					}
+				}
+			},
+			"6510b5b8-cef4-4656-8508-43c6e8b645c9" : 
+			{
+				"Files" : null,
+				"Name" : "Kit",
+				"ReadOnly" : false,
+				"SubDirectories" : 
+				{
+					"3a70b6cc-49cf-40d9-bcc2-4ea8a03a84c2" : 
+					{
+						"Files" : 
+						{
+							"6b0e6edc-7cf1-465d-b160-0af0e625fef0" : 
+							{
+								"ReadOnly" : false
+							},
+							"80f71c2d-2155-4a61-ba1b-2cf32e9cfd86" : 
+							{
+								"ReadOnly" : false
+							},
+							"8d5e8a9b-4b1b-48f8-9caa-f18d74b26535" : 
+							{
+								"ReadOnly" : false
+							},
+							"b8afde26-4551-4e7d-a93f-1156a5af8944" : 
+							{
+								"ReadOnly" : false
+							},
+							"cb7df434-18a9-4895-ac25-85adcad506a4" : 
+							{
+								"ReadOnly" : false
+							},
+							"dbfdf8a3-9777-43b1-8aa2-e7f69598e954" : 
+							{
+								"ReadOnly" : false
+							},
+							"df4be302-1095-4964-879a-3b2cc43115eb" : 
+							{
+								"ReadOnly" : false
+							}
+						},
+						"Name" : "Space",
+						"ReadOnly" : false,
+						"SubDirectories" : 
+						{
+							"1e06e9c4-f66f-4d3f-96af-bffe4a0e7f20" : 
+							{
+								"Files" : 
+								{
+									"01249fa6-7a32-4f14-a045-dcdbcdd3f756" : 
+									{
+										"ReadOnly" : false
+									},
+									"0e05d44c-6b7d-4080-bed9-8dc10ca771f0" : 
+									{
+										"ReadOnly" : false
+									},
+									"0f0f69d4-d273-4773-9707-33bf323c32e8" : 
+									{
+										"ReadOnly" : false
+									},
+									"10bd995e-c607-4751-8b83-b8bbd8b91a0c" : 
+									{
+										"ReadOnly" : false
+									},
+									"15a1d799-9d89-4a71-9ace-7cb026ca7560" : 
+									{
+										"ReadOnly" : false
+									},
+									"26545df2-3f27-4586-b6fe-30d6b6e164f6" : 
+									{
+										"ReadOnly" : false
+									},
+									"5e7f6c27-e2ec-4e3c-9a22-34a60511989b" : 
+									{
+										"ReadOnly" : false
+									},
+									"b88fc5a4-cc15-4a87-8916-d3c9d305e6a7" : 
+									{
+										"ReadOnly" : false
+									},
+									"cb6e4921-8db3-4102-964f-616862bef7df" : 
+									{
+										"ReadOnly" : false
+									},
+									"cd3ca993-c3ec-46da-b710-ce4059ef7362" : 
+									{
+										"ReadOnly" : false
+									},
+									"cf1739d3-9600-44c7-8881-8800d0288902" : 
+									{
+										"ReadOnly" : false
+									},
+									"eb7ddd1d-9cf1-4fd7-b939-a01a899f450b" : 
+									{
+										"ReadOnly" : false
+									},
+									"ee844a70-06c6-40c6-a135-ce0ac6c90828" : 
+									{
+										"ReadOnly" : false
+									},
+									"f1b835ba-ec3f-4169-a57b-402af156b7fb" : 
+									{
+										"ReadOnly" : false
+									}
+								},
+								"Name" : "Parts",
+								"ReadOnly" : false,
+								"SubDirectories" : null
+							}
+						}
+					},
+					"b6853cde-e2cf-4db8-b310-e95805d316e9" : 
+					{
+						"Files" : 
+						{
+							"03d684f3-00f6-41d3-b346-04f3e38ac775" : 
+							{
+								"ReadOnly" : false
+							},
+							"07e977c3-3901-4b49-961e-df3e4dc684b3" : 
+							{
+								"ReadOnly" : false
+							},
+							"0b4b5c0b-3b9c-4f19-ab12-925218dc688e" : 
+							{
+								"ReadOnly" : false
+							},
+							"1939da50-a2f5-406b-a7d5-6229118a8438" : 
+							{
+								"ReadOnly" : false
+							},
+							"19a177bd-fd11-460b-882a-17fe191f493e" : 
+							{
+								"ReadOnly" : false
+							},
+							"1bc49e17-5a9d-41e8-b945-0357677fe171" : 
+							{
+								"ReadOnly" : false
+							},
+							"20f8ab92-adb4-4415-b2d4-4fecb70f73a7" : 
+							{
+								"ReadOnly" : false
+							},
+							"236c6acf-6d58-4cc2-83e8-abf851553dad" : 
+							{
+								"ReadOnly" : false
+							},
+							"369de2a9-d082-4c83-b6d7-b9de4a1358a7" : 
+							{
+								"ReadOnly" : false
+							},
+							"40327fec-8939-4333-9efb-645424761f86" : 
+							{
+								"ReadOnly" : false
+							},
+							"4b4a22bb-9b42-4e92-ad49-bcee324bead2" : 
+							{
+								"ReadOnly" : false
+							},
+							"5b5f57f1-6553-49ed-a396-7d413dc7ca2f" : 
+							{
+								"ReadOnly" : false
+							},
+							"65c3dc56-0803-464c-bd58-d2f21bf0b7be" : 
+							{
+								"ReadOnly" : false
+							},
+							"7ac52507-61ee-413f-aa61-4fe755a7563f" : 
+							{
+								"ReadOnly" : false
+							},
+							"7d64f628-f7f5-4d2a-b675-cc1862e2102a" : 
+							{
+								"ReadOnly" : false
+							},
+							"8cbeb3ac-925f-4867-8374-a00798161c2e" : 
+							{
+								"ReadOnly" : false
+							},
+							"9728a7b2-3d04-4977-b0bf-b4cfac4b6fd9" : 
+							{
+								"ReadOnly" : false
+							},
+							"9c632b97-4f7b-4402-85a3-b355e82f1a04" : 
+							{
+								"ReadOnly" : false
+							},
+							"ae76c832-1ded-42d6-9948-c3028cb03b93" : 
+							{
+								"ReadOnly" : false
+							},
+							"aee173c8-0c01-41d7-b6b5-994ed26f4afd" : 
+							{
+								"ReadOnly" : false
+							},
+							"afb1b507-410a-4a48-99c9-e6f2e4969944" : 
+							{
+								"ReadOnly" : false
+							},
+							"c8f2aa9f-9c3c-4df6-84b8-2e775914824a" : 
+							{
+								"ReadOnly" : false
+							},
+							"ceaf9e0e-b989-49c5-a843-afe0fa1fd861" : 
+							{
+								"ReadOnly" : false
+							},
+							"d09e21ef-8a19-4872-87e9-88753c69a942" : 
+							{
+								"ReadOnly" : false
+							},
+							"d0da447f-939a-47b1-8ee1-bc3c8fc52851" : 
+							{
+								"ReadOnly" : false
+							},
+							"d2726636-0b97-43e3-b2ad-5dd9ca950f6e" : 
+							{
+								"ReadOnly" : false
+							},
+							"dc438a2f-2364-454c-bf96-15c04c8b474e" : 
+							{
+								"ReadOnly" : false
+							},
+							"dedebea5-618d-4429-af5c-166cdca9e0ca" : 
+							{
+								"ReadOnly" : false
+							},
+							"f5d01d52-e634-4717-81bf-347acb0a7bac" : 
+							{
+								"ReadOnly" : false
+							},
+							"f9ac0bee-da8d-4b89-9cf0-59efe18093d9" : 
+							{
+								"ReadOnly" : false
+							},
+							"fc8490a9-2cc0-445a-9115-bf438f436a58" : 
+							{
+								"ReadOnly" : false
+							},
+							"fec94ba9-79f7-414c-9b22-cca730bd0de9" : 
+							{
+								"ReadOnly" : false
+							},
+							"ffeb4779-af1a-4bbd-99f1-030d302e9735" : 
+							{
+								"ReadOnly" : false
+							}
+						},
+						"Name" : "Prototype",
+						"ReadOnly" : false,
+						"SubDirectories" : 
+						{
+							"1d30c3f0-edc1-4b5a-95c8-a6f45fe192cd" : 
+							{
+								"Files" : 
+								{
+									"0b336a3c-1da7-4783-a6a8-2de17e4beb21" : 
+									{
+										"ReadOnly" : false
+									},
+									"0cb35f47-03f6-4ca0-9e0e-bc4e062edb6b" : 
+									{
+										"ReadOnly" : false
+									},
+									"0f43e62e-74c2-4161-92bb-4016336ed2a7" : 
+									{
+										"ReadOnly" : false
+									},
+									"110fbca5-370a-477c-9b38-d23d5584bc7a" : 
+									{
+										"ReadOnly" : false
+									},
+									"12266a77-6ef9-4ee9-916d-a101ad008695" : 
+									{
+										"ReadOnly" : false
+									},
+									"15ffe9b8-be39-4aaa-9519-cfcd593670ea" : 
+									{
+										"ReadOnly" : false
+									},
+									"1680113b-9e1d-4d1c-8610-486f7e333d58" : 
+									{
+										"ReadOnly" : false
+									},
+									"188ec324-1534-4ffb-8696-750ef7b9f179" : 
+									{
+										"ReadOnly" : false
+									},
+									"273b77fd-9e24-4130-a03f-e77bc01528ad" : 
+									{
+										"ReadOnly" : false
+									},
+									"2cacb0f9-0a64-430c-86c1-8679b43f67ff" : 
+									{
+										"ReadOnly" : false
+									},
+									"2d8fbb47-a002-4eb9-8960-2fac9683ce72" : 
+									{
+										"ReadOnly" : false
+									},
+									"2f5badc5-6180-4e01-a42a-92d4e83a4e9e" : 
+									{
+										"ReadOnly" : false
+									},
+									"31587daf-1cb6-4152-be16-30fa95cb1187" : 
+									{
+										"ReadOnly" : false
+									},
+									"316c8198-177b-46d9-997a-8ade9be07995" : 
+									{
+										"ReadOnly" : false
+									},
+									"355a745b-aca7-4bee-8651-9fbc6db5cf28" : 
+									{
+										"ReadOnly" : false
+									},
+									"363e9602-1efa-402d-85cd-a2f4189961d9" : 
+									{
+										"ReadOnly" : false
+									},
+									"3d6d4848-36b2-42ef-b898-55a3b2973662" : 
+									{
+										"ReadOnly" : false
+									},
+									"47bc8cc0-1395-4055-a4e4-dab1d6e06d5f" : 
+									{
+										"ReadOnly" : false
+									},
+									"4bcca187-80e5-4d8c-b5b9-8cf15027c9fc" : 
+									{
+										"ReadOnly" : false
+									},
+									"4d638de3-d86d-4e73-8fea-38639bb01173" : 
+									{
+										"ReadOnly" : false
+									},
+									"56cbecc0-f739-48a5-861c-6814291a1635" : 
+									{
+										"ReadOnly" : false
+									},
+									"57eeab02-ab83-4f46-8279-8fd9a31209c1" : 
+									{
+										"ReadOnly" : false
+									},
+									"5be3e800-631d-47f8-9cad-db41fa18bb18" : 
+									{
+										"ReadOnly" : false
+									},
+									"62c569fb-d846-4d15-a8a0-fc2d7ef0ee51" : 
+									{
+										"ReadOnly" : false
+									},
+									"63a27375-b0f8-419e-bf0a-4a354718eadc" : 
+									{
+										"ReadOnly" : false
+									},
+									"66a58c6e-05b7-469c-8f8d-7cae03744f51" : 
+									{
+										"ReadOnly" : false
+									},
+									"6a396d98-6b9c-4ae2-9001-a0ebfa6bcfb1" : 
+									{
+										"ReadOnly" : false
+									},
+									"6f8a648d-f150-4949-897e-5fbf2302ed6f" : 
+									{
+										"ReadOnly" : false
+									},
+									"837dffdd-cd2a-4ac2-8a60-d388c9c88690" : 
+									{
+										"ReadOnly" : false
+									},
+									"83be454f-f6b6-41c7-a32b-67a86530cee2" : 
+									{
+										"ReadOnly" : false
+									},
+									"848d4e92-0e02-4234-a6ba-17c271119833" : 
+									{
+										"ReadOnly" : false
+									},
+									"8adab3d6-9ee1-44d2-bf5a-9a8b18ee95ed" : 
+									{
+										"ReadOnly" : false
+									},
+									"8febc302-9f07-4afe-96d9-19d7365e4508" : 
+									{
+										"ReadOnly" : false
+									},
+									"933a223f-8b3f-453b-9ade-7238861cd1a6" : 
+									{
+										"ReadOnly" : false
+									},
+									"969a7afb-96d8-4077-96db-94672657cede" : 
+									{
+										"ReadOnly" : false
+									},
+									"96fe83b4-4168-43c2-aa49-7f80440c7b69" : 
+									{
+										"ReadOnly" : false
+									},
+									"9873d7b3-0304-4c3a-be6b-37b5c257bf63" : 
+									{
+										"ReadOnly" : false
+									},
+									"98a50f55-3ba9-41fe-a6fc-b1af3723d738" : 
+									{
+										"ReadOnly" : false
+									},
+									"9ab59d96-cb5d-4da4-8084-f6c24c2da180" : 
+									{
+										"ReadOnly" : false
+									},
+									"a313bae7-805b-4eda-8e76-8d0849dbd864" : 
+									{
+										"ReadOnly" : false
+									},
+									"a67f4365-8a32-4ccb-9986-e192ad53b5bf" : 
+									{
+										"ReadOnly" : false
+									},
+									"a69737f2-2efd-4469-acaf-7395d3f72223" : 
+									{
+										"ReadOnly" : false
+									},
+									"aaf6f31b-e807-4d51-90c5-c635e6de99f9" : 
+									{
+										"ReadOnly" : false
+									},
+									"ac8ce77a-62b0-4f12-a1b6-df0435e393a4" : 
+									{
+										"ReadOnly" : false
+									},
+									"b436bd5d-86ad-408d-9f07-5c0e41633160" : 
+									{
+										"ReadOnly" : false
+									},
+									"b4a50834-f97c-43b0-856e-d049f5665139" : 
+									{
+										"ReadOnly" : false
+									},
+									"b65681e6-ee5e-40d1-a8f2-c9cb4bf63b27" : 
+									{
+										"ReadOnly" : false
+									},
+									"bb64beb5-f483-4677-8133-3349aa8d7f52" : 
+									{
+										"ReadOnly" : false
+									},
+									"c23187a7-306c-41cb-acc7-95eb360a267f" : 
+									{
+										"ReadOnly" : false
+									},
+									"c4d88186-86c0-4c24-9d98-489f61387a26" : 
+									{
+										"ReadOnly" : false
+									},
+									"c56eb648-2330-4bdb-8823-e7514e4e387f" : 
+									{
+										"ReadOnly" : false
+									},
+									"c66221b7-9d60-4efe-97f0-07c9f4f8a248" : 
+									{
+										"ReadOnly" : false
+									},
+									"ce2655f6-a7b2-4e2f-bd16-dd3ac577a64c" : 
+									{
+										"ReadOnly" : false
+									},
+									"cf6fd45c-02fa-49f2-9e73-d4a00ca1b317" : 
+									{
+										"ReadOnly" : false
+									},
+									"d066425c-5be8-47ba-9a53-63a434cd8855" : 
+									{
+										"ReadOnly" : false
+									},
+									"d49b1e3b-e538-40b9-9d75-ef58890ba690" : 
+									{
+										"ReadOnly" : false
+									},
+									"d80c23b4-ab06-4d2d-a072-d0be92d0b933" : 
+									{
+										"ReadOnly" : false
+									},
+									"dcab8716-fec7-4972-83dd-3ccc9f7f61f3" : 
+									{
+										"ReadOnly" : false
+									},
+									"dd810fc2-79ff-4bf7-9e85-09a065ef30ff" : 
+									{
+										"ReadOnly" : false
+									},
+									"e471cb9d-c988-43ed-800c-205ca419475b" : 
+									{
+										"ReadOnly" : false
+									},
+									"e7e79f1a-465c-4dec-97bc-66938f5a31ed" : 
+									{
+										"ReadOnly" : false
+									},
+									"e8c9a17b-6f5e-4dc1-b40e-e8194f040293" : 
+									{
+										"ReadOnly" : false
+									},
+									"f49bf111-105f-4040-a611-f9fb1446ebf6" : 
+									{
+										"ReadOnly" : false
+									},
+									"f6c9f44b-b5fc-41a0-a07d-449843060144" : 
+									{
+										"ReadOnly" : false
+									},
+									"fcd05aa0-c041-4f67-83d2-3b939d97abac" : 
+									{
+										"ReadOnly" : false
+									},
+									"fde33236-2b5a-4c4a-a740-d92345efc7bb" : 
+									{
+										"ReadOnly" : false
+									}
+								},
+								"Name" : "Parts",
+								"ReadOnly" : false,
+								"SubDirectories" : null
+							}
+						}
+					}
+				}
+			},
+			"7e779fd1-ca6e-4187-afc9-be63a8d90b48" : 
+			{
+				"Files" : 
+				{
+					"06348184-767c-5583-af28-df8fd2fe3d52" : 
+					{
+						"ReadOnly" : false
+					},
+					"08c8d0f2-a00c-517f-bae8-197e99f016cc" : 
+					{
+						"ReadOnly" : false
+					},
+					"0dd399ea-f5d4-5f28-b8eb-4c006bbb736f" : 
+					{
+						"ReadOnly" : false
+					},
+					"0eb9880a-4b73-5365-8b10-c1c8f0c566b6" : 
+					{
+						"ReadOnly" : false
+					},
+					"11c75c31-431b-45f7-93e9-d6a8543c79a1" : 
+					{
+						"ReadOnly" : false
+					},
+					"12e5bc5a-7d95-5f2b-9c37-40248fb4f06f" : 
+					{
+						"ReadOnly" : false
+					},
+					"1489555e-9551-5164-a71d-047a893b5bc1" : 
+					{
+						"ReadOnly" : false
+					},
+					"1689e70b-fb91-5dcb-8f4a-706283efab65" : 
+					{
+						"ReadOnly" : false
+					},
+					"1916e4fa-f063-5504-9174-c310fb3690c8" : 
+					{
+						"ReadOnly" : false
+					},
+					"1af6f9dc-ef9b-50f9-89c7-92d96a7b2c5f" : 
+					{
+						"ReadOnly" : false
+					},
+					"1b88ef5e-1a9c-5b7a-9028-21b88a03004e" : 
+					{
+						"ReadOnly" : false
+					},
+					"1d971bac-13ea-510b-aba9-dcfe7956285f" : 
+					{
+						"ReadOnly" : false
+					},
+					"1f5b44da-8ac5-4789-94ba-14dff6cab904" : 
+					{
+						"ReadOnly" : false
+					},
+					"3ab46098-f209-4228-8f1f-97cd250371bf" : 
+					{
+						"ReadOnly" : false
+					},
+					"3bc9cee1-3c7c-5ca1-b645-792d9c6498ea" : 
+					{
+						"ReadOnly" : false
+					},
+					"46d24d6e-fe42-578a-bbc3-a008f717f21a" : 
+					{
+						"ReadOnly" : false
+					},
+					"4daff472-8fd3-4431-96ea-c19b2341aae7" : 
+					{
+						"ReadOnly" : false
+					},
+					"4e0c43d3-9073-539e-a315-53fa58bb608c" : 
+					{
+						"ReadOnly" : false
+					},
+					"4ebdcb35-99cd-4ed0-9861-41639a73493d" : 
+					{
+						"ReadOnly" : false
+					},
+					"4fbcc234-75b8-562d-995d-5986074ca936" : 
+					{
+						"ReadOnly" : false
+					},
+					"53ba209f-6dab-5360-8cea-8d9f9495bbc3" : 
+					{
+						"ReadOnly" : false
+					},
+					"5aac5207-da7a-5cf9-80a7-84ddbd000d12" : 
+					{
+						"ReadOnly" : false
+					},
+					"5c214c2c-2b48-521b-b2ed-a35cd57a2ef5" : 
+					{
+						"ReadOnly" : false
+					},
+					"5f8bac6a-5786-5e59-b789-0e5334ea0623" : 
+					{
+						"ReadOnly" : false
+					},
+					"6166c2eb-9d13-56f6-af5e-9c97b0485346" : 
+					{
+						"ReadOnly" : false
+					},
+					"6301b461-690c-4b23-8e08-6d71ca6eecc7" : 
+					{
+						"ReadOnly" : false
+					},
+					"6494ce17-4897-54a9-979d-cc5e1d488165" : 
+					{
+						"ReadOnly" : false
+					},
+					"666f7c29-1404-56a3-89d0-e0278fdb475a" : 
+					{
+						"ReadOnly" : false
+					},
+					"6a1a8451-1406-5cce-b5bf-935a2d4c2cab" : 
+					{
+						"ReadOnly" : false
+					},
+					"7aeb2e0f-f1f8-5cf2-98dd-472a6c70490a" : 
+					{
+						"ReadOnly" : false
+					},
+					"7e6a723b-40a1-511a-9bb7-3b9ea88d50b6" : 
+					{
+						"ReadOnly" : false
+					},
+					"7ea38ec4-3548-41f5-b359-0633314a7ea1" : 
+					{
+						"ReadOnly" : false
+					},
+					"84d30af7-940c-4e0c-9d67-6f0c1116d9f8" : 
+					{
+						"ReadOnly" : false
+					},
+					"8a5acb0a-1ffe-485a-a9ea-2921036124af" : 
+					{
+						"ReadOnly" : false
+					},
+					"8c723491-5d6e-5d25-9c97-b0e3d02f1b75" : 
+					{
+						"ReadOnly" : false
+					},
+					"a009f2e9-39a0-5582-ba05-b79b55865210" : 
+					{
+						"ReadOnly" : false
+					},
+					"a11eeea2-c471-5d89-aa9c-0ea484f72541" : 
+					{
+						"ReadOnly" : false
+					},
+					"c6de6537-57bb-5805-93fb-58363cd37edd" : 
+					{
+						"ReadOnly" : false
+					},
+					"c70024ea-ebf6-53ca-accb-2c2f3fd15dc8" : 
+					{
+						"ReadOnly" : false
+					},
+					"d4c93483-387b-501e-9b45-fe2edfc6998b" : 
+					{
+						"ReadOnly" : false
+					},
+					"dab10856-5b8e-5ea4-bcd3-3666ee6826db" : 
+					{
+						"ReadOnly" : false
+					},
+					"dc092495-0390-45bb-a768-68ca2458accf" : 
+					{
+						"ReadOnly" : false
+					},
+					"ebae50b1-0f21-4c40-9838-5836e7559329" : 
+					{
+						"ReadOnly" : false
+					},
+					"f18a3b5e-26da-5675-aed8-7772620b7e0f" : 
+					{
+						"ReadOnly" : false
+					},
+					"f74e8905-ffed-41d1-915d-2fbfdd1a0667" : 
+					{
+						"ReadOnly" : false
+					},
+					"f9a62f55-59df-5a9a-810d-7918033ba67b" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Shaders",
+				"ReadOnly" : true,
+				"SubDirectories" : null
+			},
+			"8c3d5c61-8747-4f86-a796-c3e94a231806" : 
+			{
+				"Files" : 
+				{
+					"67162f93-3dc9-4d63-bba7-ac207aa38bd7" : 
+					{
+						"ReadOnly" : false
+					},
+					"91eafe64-8772-40d5-aa9a-04dbe2eefcca" : 
+					{
+						"ReadOnly" : false
+					},
+					"b4adb35b-a89b-48b2-aa80-d8caa77d3bdb" : 
+					{
+						"ReadOnly" : false
+					},
+					"c359e34e-1e18-430e-9940-d61a81b4a8f9" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Switches",
+				"ReadOnly" : false,
+				"SubDirectories" : 
+				{
+					"cabdad76-edc2-4e57-986e-bc846db585cd" : 
+					{
+						"Files" : 
+						{
+							"01fd3030-469f-4299-b718-79eee12bd0bb" : 
+							{
+								"ReadOnly" : false
+							},
+							"0bbf07e2-2b20-4b05-9ef9-95aabe77ed92" : 
+							{
+								"ReadOnly" : false
+							},
+							"19f0d3d9-8caf-44ea-9919-6deff0a19ee1" : 
+							{
+								"ReadOnly" : false
+							},
+							"221d2c09-ab6d-41f3-8350-1fc5ee49ddfc" : 
+							{
+								"ReadOnly" : false
+							},
+							"23b3c1ef-fa80-4e01-9ee0-5c9f14a0aa7a" : 
+							{
+								"ReadOnly" : false
+							},
+							"24491798-28d9-42a3-a50f-249dd78c0cd7" : 
+							{
+								"ReadOnly" : false
+							},
+							"2722ad80-e6f1-4f97-9ef1-2baebf163e53" : 
+							{
+								"ReadOnly" : false
+							},
+							"3c6377c5-14c0-4bf7-8dd9-deb3a9f5d915" : 
+							{
+								"ReadOnly" : false
+							},
+							"41f3bd76-420c-4f6e-9936-c44126598935" : 
+							{
+								"ReadOnly" : false
+							},
+							"41f5c2f6-6414-488d-932b-092e5ad20710" : 
+							{
+								"ReadOnly" : false
+							},
+							"46a0a754-fd9b-41c7-9f9e-321be4deb9b2" : 
+							{
+								"ReadOnly" : false
+							},
+							"5654cfca-2101-4c64-bd9f-d2589e0e0a40" : 
+							{
+								"ReadOnly" : false
+							},
+							"57d6b851-f8e4-4ef3-90b0-50e7f8dc687d" : 
+							{
+								"ReadOnly" : false
+							},
+							"797966f0-7fb7-4752-8e23-ee7e9ed4ad5a" : 
+							{
+								"ReadOnly" : false
+							},
+							"815069c9-c728-4be2-9154-2557995b7095" : 
+							{
+								"ReadOnly" : false
+							},
+							"82be62c3-7cce-4e7a-b17e-6856981a3d40" : 
+							{
+								"ReadOnly" : false
+							},
+							"84dae56d-294e-4bd8-8521-5817e241fd9f" : 
+							{
+								"ReadOnly" : false
+							},
+							"894ea83b-2e72-4855-be6b-3ac731efca2a" : 
+							{
+								"ReadOnly" : false
+							},
+							"8b5ec93b-6ea9-44c7-a983-b05f8b35623f" : 
+							{
+								"ReadOnly" : false
+							},
+							"9315c3fa-b87f-4292-8a92-a8b5f9dd9c9c" : 
+							{
+								"ReadOnly" : false
+							},
+							"ad00a521-659d-4a16-89d3-3b3245705c69" : 
+							{
+								"ReadOnly" : false
+							},
+							"adf337f9-64de-44e1-8895-a7b773c97b36" : 
+							{
+								"ReadOnly" : false
+							},
+							"bf45a042-de4d-47d5-830f-cb2e12b7cd7f" : 
+							{
+								"ReadOnly" : false
+							},
+							"c74428a7-c8a8-45a5-95e9-15fd6d00b7ab" : 
+							{
+								"ReadOnly" : false
+							},
+							"c8e45ab7-679b-4985-9aff-06b027c20e4c" : 
+							{
+								"ReadOnly" : false
+							},
+							"d377f331-b52e-4767-9ad4-e70645e8c3c3" : 
+							{
+								"ReadOnly" : false
+							},
+							"fb4897f7-7644-4fd8-ab18-1ba14bbf8c05" : 
+							{
+								"ReadOnly" : false
+							},
+							"fe92a547-d135-480b-9174-0497ab0eac57" : 
+							{
+								"ReadOnly" : false
+							}
+						},
+						"Name" : "Parts",
+						"ReadOnly" : false,
+						"SubDirectories" : null
+					}
+				}
+			},
+			"a80d71bd-cc17-4593-bf30-67d960d1f13c" : 
+			{
+				"Files" : 
+				{
+					"6ce8ec14-f958-4ba4-8ea3-971d3c6ff1cc" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Scripts",
+				"ReadOnly" : false,
+				"SubDirectories" : null
+			},
+			"f8418602-edc2-4e61-befc-a74379f5690c" : 
+			{
+				"Files" : 
+				{
+					"3c3ed4dc-8521-44b2-8820-64ecc9ea7f1e" : 
+					{
+						"ReadOnly" : false
+					},
+					"4d5f7f32-bc09-4508-8c7a-c22529dabd9f" : 
+					{
+						"ReadOnly" : false
+					},
+					"96505927-60b5-4445-a0b1-2439d02cc4b5" : 
+					{
+						"ReadOnly" : false
+					},
+					"a46a81d4-715d-49cc-af62-b7c852416e41" : 
+					{
+						"ReadOnly" : false
+					},
+					"ac3933db-1ed9-4054-9372-2ab0c080f1db" : 
+					{
+						"ReadOnly" : false
+					},
+					"cef99bb1-e716-400c-9be5-2eb56b2f6051" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Laboratory",
+				"ReadOnly" : false,
+				"SubDirectories" : 
+				{
+					"456871ac-e133-4f12-bfa4-ac3acbce6b5c" : 
+					{
+						"Files" : 
+						{
+							"036ef43c-98d1-4a75-88a3-1fa079ce05a6" : 
+							{
+								"ReadOnly" : false
+							},
+							"11cd9dde-560e-4c35-834c-0c3decabcf48" : 
+							{
+								"ReadOnly" : false
+							},
+							"1ebc045c-a20d-4c6b-8211-1abd0c90b3a4" : 
+							{
+								"ReadOnly" : false
+							},
+							"25d87cd5-82da-4760-b9c8-a7479e2fcb11" : 
+							{
+								"ReadOnly" : false
+							},
+							"3de6abbe-b4a9-41ed-8c65-796fd2de4575" : 
+							{
+								"ReadOnly" : false
+							},
+							"4f7fa54c-9087-4330-8873-ab2504a57b72" : 
+							{
+								"ReadOnly" : false
+							},
+							"620c2345-0aee-43c8-939d-3aacfccbe7af" : 
+							{
+								"ReadOnly" : false
+							},
+							"68b26d3b-36b9-46a2-8e9b-437c9630c398" : 
+							{
+								"ReadOnly" : false
+							},
+							"6de98316-12c8-490c-94ba-e79fd6ffef80" : 
+							{
+								"ReadOnly" : false
+							},
+							"b8d89175-508d-44dc-b30e-4562ca5b9eca" : 
+							{
+								"ReadOnly" : false
+							},
+							"bfab99be-af25-44d0-818d-c32cd6ad2da5" : 
+							{
+								"ReadOnly" : false
+							},
+							"c8706b43-8b3b-4c3b-b0a0-feeb81e57bfc" : 
+							{
+								"ReadOnly" : false
+							},
+							"e2a175da-ddcf-4cd1-8cc7-b3e16e8e5952" : 
+							{
+								"ReadOnly" : false
+							},
+							"e87c03a1-f92c-42b5-b6e2-70fc369efe5f" : 
+							{
+								"ReadOnly" : false
+							}
+						},
+						"Name" : "Parts",
+						"ReadOnly" : false,
+						"SubDirectories" : null
+					}
+				}
+			},
+			"fdb185c5-e85b-45fd-b8bb-f386a3150cc7" : 
+			{
+				"Files" : 
+				{
+					"0a593e3f-4d54-4b89-bdae-8bfe44bb2806" : 
+					{
+						"ReadOnly" : false
+					},
+					"0d07613e-1262-4c4b-88ae-07425e94b201" : 
+					{
+						"ReadOnly" : false
+					},
+					"20f0e5cf-f991-45bd-952f-3b08862ed1f8" : 
+					{
+						"ReadOnly" : false
+					},
+					"227be324-985d-4360-ab18-1ed756f2a15c" : 
+					{
+						"ReadOnly" : false
+					},
+					"2e93997c-ea0f-4f2f-b983-0acc93e89ecf" : 
+					{
+						"ReadOnly" : false
+					},
+					"3217d85c-2f23-4f55-b4cc-4148afad93e0" : 
+					{
+						"ReadOnly" : false
+					},
+					"34979faa-cb3f-45b3-aec1-e3cec9a82167" : 
+					{
+						"ReadOnly" : false
+					},
+					"40aad133-c36f-4e79-9cb3-860c2fb649e3" : 
+					{
+						"ReadOnly" : false
+					},
+					"5b71ab40-02cd-4102-92c5-db0f0091fbed" : 
+					{
+						"ReadOnly" : false
+					},
+					"61f3f949-8df9-4c6f-add9-57e84cb1e996" : 
+					{
+						"ReadOnly" : false
+					},
+					"6f0934e0-be78-48bc-b325-972777837c4b" : 
+					{
+						"ReadOnly" : false
+					},
+					"70dd968d-fb57-424a-90fc-56fcdaf63928" : 
+					{
+						"ReadOnly" : false
+					},
+					"715141e8-1705-4345-8e84-28c37a7b330e" : 
+					{
+						"ReadOnly" : false
+					},
+					"7b2a5c66-05e0-4a25-be5d-1f51e1a076b1" : 
+					{
+						"ReadOnly" : false
+					},
+					"7c423d54-72c4-4058-bfb8-ef176fbc09be" : 
+					{
+						"ReadOnly" : false
+					},
+					"885b14e6-7e27-487c-9991-065fc55fa79e" : 
+					{
+						"ReadOnly" : false
+					},
+					"9a379de0-ca72-4b22-bbbf-76ab3636959c" : 
+					{
+						"ReadOnly" : false
+					},
+					"a59f245e-e11d-4563-901f-180299afe705" : 
+					{
+						"ReadOnly" : false
+					},
+					"a6562872-face-4639-8046-14eff2d8d61f" : 
+					{
+						"ReadOnly" : false
+					},
+					"b8241f1d-5e26-420c-a6c1-88e3a725555c" : 
+					{
+						"ReadOnly" : false
+					},
+					"c33f63bd-9197-400a-9a02-c500c19b100d" : 
+					{
+						"ReadOnly" : false
+					},
+					"c80bce0b-e5f3-4cc0-9e07-9f30909c0413" : 
+					{
+						"ReadOnly" : false
+					},
+					"dc4139df-bf5d-4bc9-b799-96d6533f148c" : 
+					{
+						"ReadOnly" : false
+					},
+					"dfe2fae9-83ea-4a6e-bbc3-15e209df6477" : 
+					{
+						"ReadOnly" : false
+					},
+					"e0cd1d2c-97cd-4d3a-a9ce-265b38bdc4d8" : 
+					{
+						"ReadOnly" : false
+					},
+					"e1bc2c84-5bcc-44ac-84fc-8ffe0de2ed00" : 
+					{
+						"ReadOnly" : false
+					},
+					"e628780c-b7d3-407b-88ef-22d009dbedd6" : 
+					{
+						"ReadOnly" : false
+					},
+					"f21a4269-67cd-4c7c-921d-477f8779a2b9" : 
+					{
+						"ReadOnly" : false
+					},
+					"f27441a9-94a6-444d-b071-fb4170e88599" : 
+					{
+						"ReadOnly" : false
+					},
+					"f3a2c273-351c-46a9-9ae1-7c477b8fab16" : 
+					{
+						"ReadOnly" : false
+					},
+					"f6fe87c9-7441-4a20-ba2a-1e34002df248" : 
+					{
+						"ReadOnly" : false
+					}
+				},
+				"Name" : "Props",
+				"ReadOnly" : false,
+				"SubDirectories" : 
+				{
+					"8c750c19-89fb-4832-85f5-ae5eb0c78f15" : 
+					{
+						"Files" : 
+						{
+							"02a8c4ad-f658-450e-9b05-6b38aab6c6ce" : 
+							{
+								"ReadOnly" : false
+							},
+							"060bd6c4-6646-4b41-befa-4e47623972ba" : 
+							{
+								"ReadOnly" : false
+							},
+							"08526a26-695b-48c0-82b6-4fd4fc04e450" : 
+							{
+								"ReadOnly" : false
+							},
+							"08ad2a62-362a-492b-90dc-e60b387982ff" : 
+							{
+								"ReadOnly" : false
+							},
+							"0e8e4043-bc57-444b-9aa0-4b7f81505987" : 
+							{
+								"ReadOnly" : false
+							},
+							"143bc766-bd2a-4734-a464-7f79dbba0efd" : 
+							{
+								"ReadOnly" : false
+							},
+							"15bad586-40a2-40b4-abe2-55dd92826c9c" : 
+							{
+								"ReadOnly" : false
+							},
+							"1862e637-1d98-4900-b81b-9facc7a71153" : 
+							{
+								"ReadOnly" : false
+							},
+							"197286c9-5930-44bb-bcc8-0aeee44b146b" : 
+							{
+								"ReadOnly" : false
+							},
+							"231a9b85-1801-4f38-ab81-f5430f57a824" : 
+							{
+								"ReadOnly" : false
+							},
+							"23f18246-b2f1-45e7-aac8-83e97b78ebc9" : 
+							{
+								"ReadOnly" : false
+							},
+							"25b3eb13-1163-4a5b-91cf-00a95ec664c2" : 
+							{
+								"ReadOnly" : false
+							},
+							"27369323-c9c3-4b13-ac0f-b45ceebf795a" : 
+							{
+								"ReadOnly" : false
+							},
+							"2acdd280-d2d3-4cf3-bd60-bb87a6b44ef0" : 
+							{
+								"ReadOnly" : false
+							},
+							"2b2d743d-e205-4eeb-9a8c-5609c72838e9" : 
+							{
+								"ReadOnly" : false
+							},
+							"2c5c9e53-dcdd-4051-98b7-23518096fc77" : 
+							{
+								"ReadOnly" : false
+							},
+							"2dbaffc7-9217-44c6-afbf-88054545ac1b" : 
+							{
+								"ReadOnly" : false
+							},
+							"2e90fc70-59f9-43e9-8ee6-5d3f2d805fb5" : 
+							{
+								"ReadOnly" : false
+							},
+							"39273c54-ef1a-42d0-8f06-20216efa15f9" : 
+							{
+								"ReadOnly" : false
+							},
+							"3a604643-9523-474a-bc69-9c58cd059f71" : 
+							{
+								"ReadOnly" : false
+							},
+							"3b07bce9-60cd-42da-986b-f40ae13edfa1" : 
+							{
+								"ReadOnly" : false
+							},
+							"3bcbdf14-a6dd-45ab-b013-bd23e2107597" : 
+							{
+								"ReadOnly" : false
+							},
+							"3f00b61e-d692-4092-9042-bb4dfe09d8b5" : 
+							{
+								"ReadOnly" : false
+							},
+							"4612969c-a0e0-4eac-9202-025b5ead4a15" : 
+							{
+								"ReadOnly" : false
+							},
+							"46f7976d-bf78-4527-9b02-bbaa2830996e" : 
+							{
+								"ReadOnly" : false
+							},
+							"4a6709db-c37d-41bb-861b-11cf399aa89c" : 
+							{
+								"ReadOnly" : false
+							},
+							"4ba6f9d7-8be7-4ca5-8b11-569067475b4b" : 
+							{
+								"ReadOnly" : false
+							},
+							"4c97c1a3-6553-4b5d-8b27-c7de12a50e21" : 
+							{
+								"ReadOnly" : false
+							},
+							"50f0bee3-27e2-44a8-afa2-c53f6a840645" : 
+							{
+								"ReadOnly" : false
+							},
+							"58495e64-957f-4d18-9a89-f1236703ca44" : 
+							{
+								"ReadOnly" : false
+							},
+							"5a406411-5d4a-4137-bdb0-2fa58bfb86db" : 
+							{
+								"ReadOnly" : false
+							},
+							"5b58c927-fc3b-4e17-99e6-5e0ed42ad67d" : 
+							{
+								"ReadOnly" : false
+							},
+							"5c1a8929-c93c-4c2e-a28d-9e9c8e385d3a" : 
+							{
+								"ReadOnly" : false
+							},
+							"5f17f600-a97a-4e2e-9849-8fc565e2c236" : 
+							{
+								"ReadOnly" : false
+							},
+							"5f5b4b41-d9c2-4e45-8fa7-04d2b5a693b4" : 
+							{
+								"ReadOnly" : false
+							},
+							"60349cf2-0752-47b6-baf7-8b7f0879ee87" : 
+							{
+								"ReadOnly" : false
+							},
+							"6a83e868-24d4-485a-a157-45aa36d40191" : 
+							{
+								"ReadOnly" : false
+							},
+							"6b5efaee-02d6-4f25-8415-b30408b415dd" : 
+							{
+								"ReadOnly" : false
+							},
+							"6d9808dc-8730-4569-9667-bda9c35d3f87" : 
+							{
+								"ReadOnly" : false
+							},
+							"6e69bef4-f120-4b0f-939c-29ccfd2b1cca" : 
+							{
+								"ReadOnly" : false
+							},
+							"74f9c363-9088-4f05-aacf-bca9f07b082f" : 
+							{
+								"ReadOnly" : false
+							},
+							"76276d0c-c525-4203-a3eb-d4601e3397a6" : 
+							{
+								"ReadOnly" : false
+							},
+							"76a82351-e8e2-4930-af57-8ce745edaba9" : 
+							{
+								"ReadOnly" : false
+							},
+							"77c6e88a-8f4c-4a9a-b16c-4a464f5c3c93" : 
+							{
+								"ReadOnly" : false
+							},
+							"78fbbb3a-7f26-41a1-a1a9-9341ab407364" : 
+							{
+								"ReadOnly" : false
+							},
+							"7f721f95-bd81-4de7-b867-8937453b6826" : 
+							{
+								"ReadOnly" : false
+							},
+							"88797e12-f73c-4625-9160-7cd17641ee00" : 
+							{
+								"ReadOnly" : false
+							},
+							"8ecb2ac7-424d-4c16-9a13-933595ecc9a9" : 
+							{
+								"ReadOnly" : false
+							},
+							"8fc1deea-1201-46b3-a9f6-1c4a81fee5db" : 
+							{
+								"ReadOnly" : false
+							},
+							"90574242-de27-451f-8842-2f3814b8372b" : 
+							{
+								"ReadOnly" : false
+							},
+							"92280c9f-5a4f-415f-bba4-4a614a866c46" : 
+							{
+								"ReadOnly" : false
+							},
+							"942d020b-671f-48dc-97d9-f88c42d8722e" : 
+							{
+								"ReadOnly" : false
+							},
+							"9549ddc8-8a34-4eb4-a99e-a2c7832b227c" : 
+							{
+								"ReadOnly" : false
+							},
+							"958a8cbe-ea33-409d-a11e-7d9b52b91678" : 
+							{
+								"ReadOnly" : false
+							},
+							"987cde6a-4de6-4c3a-8478-50be1de468e0" : 
+							{
+								"ReadOnly" : false
+							},
+							"9c0a627f-5e79-426e-944a-31c7b6612e9f" : 
+							{
+								"ReadOnly" : false
+							},
+							"9eeb6f58-6c70-4637-a9c3-327d4fbea925" : 
+							{
+								"ReadOnly" : false
+							},
+							"a19e85a5-21c8-4375-b708-36538a3b574c" : 
+							{
+								"ReadOnly" : false
+							},
+							"a5de7f0a-9537-4df2-8342-05cb8a9faf59" : 
+							{
+								"ReadOnly" : false
+							},
+							"ac3c98d1-8cea-4285-8209-eb8ba913b7e0" : 
+							{
+								"ReadOnly" : false
+							},
+							"b10427c4-4f82-42de-8fd0-48e864256cc7" : 
+							{
+								"ReadOnly" : false
+							},
+							"b4c30397-f8cf-4193-82b1-12dc2b031cf7" : 
+							{
+								"ReadOnly" : false
+							},
+							"b64947e4-c233-47df-9525-6bc34b4abc18" : 
+							{
+								"ReadOnly" : false
+							},
+							"bd7cba0a-19c1-4bf2-b14b-ba617edb2c4a" : 
+							{
+								"ReadOnly" : false
+							},
+							"bdcea212-8515-484b-98cb-8098e51db102" : 
+							{
+								"ReadOnly" : false
+							},
+							"be967a49-7d0d-4172-bf80-304faba12891" : 
+							{
+								"ReadOnly" : false
+							},
+							"bfb2797a-9ba1-4e21-b972-be348b178268" : 
+							{
+								"ReadOnly" : false
+							},
+							"c2528d95-d4de-4e0e-8cd9-ae693aa20d77" : 
+							{
+								"ReadOnly" : false
+							},
+							"c2657a66-1a82-40c5-9821-68fb7d5e3c61" : 
+							{
+								"ReadOnly" : false
+							},
+							"c323e271-70f4-4015-97ec-c1a4ff62a3fe" : 
+							{
+								"ReadOnly" : false
+							},
+							"c50c7737-2537-4968-b449-aec71ad6eea2" : 
+							{
+								"ReadOnly" : false
+							},
+							"c75b6bf3-e00b-46ed-b43e-1f0f1b222d6b" : 
+							{
+								"ReadOnly" : false
+							},
+							"cb8e02a1-d6bb-411f-b0cc-03643d7d3bc3" : 
+							{
+								"ReadOnly" : false
+							},
+							"cb9b9aa3-16a5-4f1f-87aa-c9ff04540846" : 
+							{
+								"ReadOnly" : false
+							},
+							"d8f2febd-1158-4d03-8241-cfa7235bbd32" : 
+							{
+								"ReadOnly" : false
+							},
+							"d9d53c39-d4a9-414f-8d41-ba95a0f689c4" : 
+							{
+								"ReadOnly" : false
+							},
+							"dd214106-763d-4376-81de-6a653b29b5a8" : 
+							{
+								"ReadOnly" : false
+							},
+							"e105e4c8-7fb5-46cf-a4dd-57b89004cc1b" : 
+							{
+								"ReadOnly" : false
+							},
+							"e2921d61-2f8b-42e1-9afd-5121b2876fcb" : 
+							{
+								"ReadOnly" : false
+							},
+							"e363b609-7b87-49dc-9bff-872d884f4ed3" : 
+							{
+								"ReadOnly" : false
+							},
+							"e3f30c5c-933d-42d6-bcf8-0bdcbd281ccd" : 
+							{
+								"ReadOnly" : false
+							},
+							"e713699d-97b0-4903-935c-cd5a4f9bbcb6" : 
+							{
+								"ReadOnly" : false
+							},
+							"e7dec0df-4565-4d9c-8d9a-aba9ad343616" : 
+							{
+								"ReadOnly" : false
+							},
+							"eab455cc-b000-49e1-aec9-e51e1844620a" : 
+							{
+								"ReadOnly" : false
+							},
+							"ead01fba-7137-4deb-b10b-c60fd274f79f" : 
+							{
+								"ReadOnly" : false
+							},
+							"ee39a131-f505-4c5c-aedb-f6017cafe530" : 
+							{
+								"ReadOnly" : false
+							},
+							"ee8c51ad-7d8c-410e-a88c-3a3848618b11" : 
+							{
+								"ReadOnly" : false
+							},
+							"ef9b3ecc-d5c6-4539-9d02-e04b26a7951a" : 
+							{
+								"ReadOnly" : false
+							},
+							"f3d167d6-84c9-49ab-b947-4f67b55213f2" : 
+							{
+								"ReadOnly" : false
+							},
+							"f8253ea5-2a1c-452a-89cd-eaa94ddec8a2" : 
+							{
+								"ReadOnly" : false
+							},
+							"f836c571-2a50-44d8-b566-307d64201922" : 
+							{
+								"ReadOnly" : false
+							},
+							"f8b9191e-d685-4b4d-b9d7-2c24fb93409a" : 
+							{
+								"ReadOnly" : false
+							},
+							"f932b2a8-d932-40c7-8b76-8070da54928d" : 
+							{
+								"ReadOnly" : false
+							},
+							"f9de2dfe-3771-4143-a442-45f0e92308e0" : 
+							{
+								"ReadOnly" : false
+							},
+							"fd415484-9e7a-40a8-96d7-ba8f2e0f6ec1" : 
+							{
+								"ReadOnly" : false
+							},
+							"fdeb59a9-a0bd-47fb-b110-473b7b9a06f4" : 
+							{
+								"ReadOnly" : false
+							}
+						},
+						"Name" : "Parts",
+						"ReadOnly" : false,
+						"SubDirectories" : null
+					}
+				}
+			}
+		}
+	},
+	"version" : 0.019999999552965164
+}
