@@ -1,9 +1,9 @@
 # TopDownAdventure Focal Engine Project
 
 <div align="center">
-    <img src="https://github.com/Azzinoth/FocalEngineProjects-TopDownAdventure/blob/media/Level1_overview.jpg" width="60%">
-    <img src="https://github.com/Azzinoth/FocalEngineProjects-TopDownAdventure/blob/media/Level1_start.jpg" width="60%">
-    <img src="https://github.com/Azzinoth/FocalEngineProjects-TopDownAdventure/blob/media/Level1_training_room.jpg" width="60%">
+    <img src="https://github.com/Azzinoth/FocalEngineProjects-TopDownAdventure/blob/media/Level1_overview.jpg?raw=true" width="32%">
+    <img src="https://github.com/Azzinoth/FocalEngineProjects-TopDownAdventure/blob/media/Level1_start.jpg?raw=true" width="32%">
+    <img src="https://github.com/Azzinoth/FocalEngineProjects-TopDownAdventure/blob/media/Level1_training_room.jpg?raw=true" width="32%">
 </div>
 
 I created this Focal Engine project using resources from the [Top-Down Action Adventure Starter Kit](https://github.com/Nodragem/top-down-action-adventure-starter-kit) by Nodragem, a Godot 4 project built from KayKit assets.
