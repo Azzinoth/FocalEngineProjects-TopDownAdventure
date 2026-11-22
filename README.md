@@ -1,4 +1,4 @@
-# Visual Node System - Media Branch
+Media Branch
 
 This branch serves as a dedicated storage for media assets used in the README.md file of the master branch.
 
