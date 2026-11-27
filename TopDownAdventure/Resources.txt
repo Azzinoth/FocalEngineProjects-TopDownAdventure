@@ -58406,7 +58406,8 @@
 										"Distance dependent strength" : 100.0,
 										"Far distance" : 9000.0,
 										"Near distance" : 0.0,
-										"Strength" : 2.0
+										"Strength" : 2.0,
+										"bIsDepthOfField Enabled" : false
 									},
 									"Distance fog" : 
 									{
@@ -128264,7 +128265,8 @@
 										"Distance dependent strength" : 100.0,
 										"Far distance" : 9000.0,
 										"Near distance" : 0.0,
-										"Strength" : 2.0
+										"Strength" : 2.0,
+										"bIsDepthOfField Enabled" : false
 									},
 									"Distance fog" : 
 									{
